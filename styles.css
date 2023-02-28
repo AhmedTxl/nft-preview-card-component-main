@@ -99,8 +99,10 @@ h6 {
   max-width: 356px;
 }
 
-.texts h3 {
+.texts .header {
   line-height: 3.5;
+  font-size: 1.17em;
+  font-weight: 600;
 }
 
 .description {
